@@ -1,4 +1,3 @@
-# Halo-Dunia
 + pertama kali menggunakan github
 + mencoba mengetik menggunakan github
 
